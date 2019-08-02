@@ -17,7 +17,12 @@ monopoly = {:railroads =>
                 :hash_three => "",
                 :hash_four => ""
               },
-              :names => ""
+              :names => {
+                name_one: "",
+                name_two: "",
+                name_three: "",
+                name_four: ""
+              }
           
 },
   } 
