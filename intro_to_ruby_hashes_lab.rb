@@ -20,7 +20,7 @@ monopoly = {:railroads =>
               :names => {
                 reading_railroad: {},
                 pennsylvania_railroad: {},
-                name_three: {},
+                b_and_o_railroad: {},
                 name_four: {}
               }
           
