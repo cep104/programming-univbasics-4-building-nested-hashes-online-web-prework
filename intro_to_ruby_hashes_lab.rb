@@ -18,7 +18,7 @@ monopoly = {:railroads =>
                 :four_pieces_owned => 200
               },
               :names => {
-                name_one: "",
+                reading_railroad: {},
                 name_two: "",
                 name_three: "",
                 name_four: ""
